@@ -1,0 +1,5 @@
+:root{ /*Crear variables del color principal de nuestra web*/
+    --primary-color: #000000;
+    --secondary-color: #253031;
+    --gray-color: #cccccc;
+}
